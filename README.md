@@ -28,13 +28,13 @@
 
 ![](https://leetcard.jacoblin.cool/kazirafi668?theme=unicorn)
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kazirafi71&" alt="" /><br/>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kazimusaddirafi&" alt="" /><br/>
 
 
-![Kazi's GitHub stats](https://github-readme-stats.vercel.app/api?username=kazirafi71&count_private=true)
+![Kazi's GitHub stats](https://github-readme-stats.vercel.app/api?username=kazimusaddirafi&count_private=true)
 <br/>
 
-[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=kazirafi71&card_width=550)](https://github.com/kazirafi71/kazirafi71)
+[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=kazimusaddirafi&card_width=550)](https://github.com/kazimusaddirafi/kazimusaddirafi)
 
 
 
